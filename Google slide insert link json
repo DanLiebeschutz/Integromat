@@ -1,0 +1,15 @@
+{
+"requests": [
+  {
+    "updateTextStyle": {
+      "objectId": "i0",
+      "style": {
+        "link": {
+          "url": "www.danliebeschutz.com"
+        }
+      },
+      "fields": "link"
+    }
+  }
+]
+}
